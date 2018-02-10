@@ -1,4 +1,5 @@
-# Georgi's Emacs customisations
+#+TITLE: Georgi's Emacs customisations
+#+OPTIONS: toc:nil
 
 I will upload here selected Emacs code and customisations.
 

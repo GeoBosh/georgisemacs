@@ -1,8 +1,3 @@
-
-# Table of Contents
-
-
-
 I will upload here selected Emacs code and customisations.
 
 For now, [this page](http://www.maths.manchester.ac.uk/~gb/emacs/index.html ) contains a couple of packages for typesetting mathematics and

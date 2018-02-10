@@ -1,5 +1,9 @@
 #+TITLE: Georgi's Emacs customisations
-#+OPTIONS: toc:nil
+#+OPTIONS: H:2 toc:nil
+
+
+# NOTE: the title setting above is not exported to markdown, so:
+* Georgi's Emacs customisations
 
 I will upload here selected Emacs code and customisations.
 

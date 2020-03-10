@@ -9,6 +9,8 @@ text in Bulgarian and Russian.  For example, typing a single key
 adjust the current input method according to the surrounding context (I usually
 assign this key to Capslock).
 
+A blog on R, Emacs and related topics can be found at [My musings](https://geobosh.bitbucket.io/)
+
 
 ## Viewing and updating Rd files in Emacs/ESS
 
